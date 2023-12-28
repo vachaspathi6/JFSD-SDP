@@ -16,7 +16,7 @@
 
 <img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/e2b90ccd-c769-468d-867a-ad330c2a6792" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/bc2dbbfc-f368-4032-a75f-0411e16ee3dd" alt="project-screenshot" width="200" height="200/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/bc2dbbfc-f368-4032-a75f-0411e16ee3dd" alt="project-screenshot" width="300" height="600/">
 
 <img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/f877eb4f-c4ac-4a05-9419-4d3089ba4e2a" alt="project-screenshot" width="300" height="600/">
 +
