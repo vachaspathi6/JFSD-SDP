@@ -64,6 +64,22 @@ Technologies used in the project:
 *   Architecture: Microservices
 *   Restful Web Services \[Rest API\]
 
+### Usage
+
+1. Access the Admin Module by navigating to `/admin` in your web browser.
+2. Use admin credentials to log in and manage students, faculty, and courses.
+3. Access the Faculty Module at `/faculty` and log in with faculty credentials.
+4. Monitor assigned courses, set tasks for students, and track their performance.
+5. Students can log in at `/student` using their credentials.
+6. Register for courses, complete assigned tasks, and participate in quizzes.
+
+### Contributors
+
+- [Vachaspathi Gnaneswar](https://github.com/vachaspathi6)
+- [Venkataramana Baratam](https://github.com/venkataramanabaratam2)
+- [Suraj Kumar](https://github.com/surajk7725)
+
+
 <h2>🛡️ License:</h2>
 
-This project is licensed under the This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
