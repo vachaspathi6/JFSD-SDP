@@ -10,23 +10,23 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/c2bbe923-cb26-4063-9b1c-5fb3d3e90cf6" alt="project-screenshot" width="200" height="600/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/c2bbe923-cb26-4063-9b1c-5fb3d3e90cf6" alt="project-screenshot" width="280" height="600/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/276eae90-cae6-4ce7-91e6-c58e844c5d6f" alt="project-screenshot" width="200" height="600/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/276eae90-cae6-4ce7-91e6-c58e844c5d6f" alt="project-screenshot" width="280" height="600/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/e2b90ccd-c769-468d-867a-ad330c2a6792" alt="project-screenshot" width="200" height="400/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/e2b90ccd-c769-468d-867a-ad330c2a6792" alt="project-screenshot" width="400" height="400/">
 
 <img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/bc2dbbfc-f368-4032-a75f-0411e16ee3dd" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/f877eb4f-c4ac-4a05-9419-4d3089ba4e2a" alt="project-screenshot" width="200" height="600/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/f877eb4f-c4ac-4a05-9419-4d3089ba4e2a" alt="project-screenshot" width="300" height="600/">
++
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/896e9ed3-95ed-4b99-a967-1859902cfe7d" alt="project-screenshot" width="300" height="600/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/896e9ed3-95ed-4b99-a967-1859902cfe7d" alt="project-screenshot" width="200" height="600/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/9162e4e6-62f2-4282-af62-120c6ca83fab" alt="project-screenshot" width="300" height="600/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/9162e4e6-62f2-4282-af62-120c6ca83fab" alt="project-screenshot" width="200" height="600/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/09ca176f-e3c6-4655-a7bc-1913b943264e" alt="project-screenshot" width="400" height="700/">
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/09ca176f-e3c6-4655-a7bc-1913b943264e" alt="project-screenshot" width="250" height="700/">
-
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/c40967d8-492a-45a5-8677-55bfbf117ac3" alt="project-screenshot" width="450" height="700/">
+<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/c40967d8-492a-45a5-8677-55bfbf117ac3" alt="project-screenshot" width="500" height="700/">
 
   
   
