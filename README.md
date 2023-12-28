@@ -38,9 +38,20 @@ Here're some of the project's best features:
 *   Faculty Module: Faculty members added by department administrators can access the platform securely. Assigned to specific courses faculty can view the total number of registered students. Set tasks and metrics for student completion monitor grades and track overall performance.
 *   Student Module: Department administrators add students to their respective departments ensuring secure access. Students can register for courses once per semester viewing only those registered in the previous semester. Complete tasks assigned by mentors participate in quizzes and regularly update assignments for evaluation.
 
-<h2>🍰 Contribution Guidelines:</h2>
+### System Requirements
 
-  
+- Java Development Kit (JDK) 8 or later
+- MySQL database
+- Apache Maven
+
+### Installation Steps
+
+1. Clone the repository: `git clone https://github.com/your-repo-url.git`
+2. Navigate to the project directory: `cd student-course-management-system`
+3. Configure the database settings in `application.properties`.
+4. Build the project using Maven: `mvn clean install`
+5. Run the application: `java -jar target/student-course-management-system.jar`
+
   
 <h2>💻 Built with</h2>
 
@@ -52,3 +63,7 @@ Technologies used in the project:
 *   Database Connectivity: Spring Data JPA
 *   Architecture: Microservices
 *   Restful Web Services \[Rest API\]
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the This project is licensed under the MIT License.
