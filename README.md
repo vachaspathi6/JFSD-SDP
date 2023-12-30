@@ -57,7 +57,7 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   Front-End: HTML JS + CSS & Bootstrap \[Can use React JS/Angular JS\]
+*   Front-End: HTML + CSS + JS & (Bootstrap) \[Can use React JS/Angular JS\]
 *   Middleware: Spring Boot
 *   Database: MYSQL \[Can use PostgreSQL\]
 *   Database Connectivity: Spring Data JPA
